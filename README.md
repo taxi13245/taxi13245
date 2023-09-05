@@ -1,4 +1,4 @@
-<h1 align="center"> こんにちは！私はかりんとうです！</h1>
+<h1 align="center"> 👋こんにちは！私はかりんとうです！</h1>
 <h3 align="center">よくやること (よくやること:.)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taxi13245&label=Profile%20views&color=0e75b6&style= flat" alt="taxi13245" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/karintou132" target="blank"><img src="https://img.盾。io/twitter/follow/karintou132?logo=twitter&style=for-the-badge" alt="karintou132" /></a> </p>
 
-<h3 align="left">連絡してください:</h3>
+<h3 align="left">連絡先:</h3>
 < p align="左">
 <a href="https://twitter.com/karintou132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="karintou132" height="30" width="40" /></a> </p>
 <
