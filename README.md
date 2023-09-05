@@ -1,6 +1,10 @@
 <h1 align="center">👋こんにちは！私は Karintou です！ (Hi, my name is Karintou!)</h1>
 <h3 align="center">よくやること (What I frequently do:.)</h3>
-
+<p>
+  📖アプリの英→日翻訳 (Translate the application from English to Japanese)<br><br>
+  💻Unityでゲーム開発 (Developing Games with Unity)<br><br>
+  🤖大規模LLMによるチャットボット開発 (Chatbot Development with Large Scale LLM)
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=taxi13245&label=Profile%20views&color=0e75b6&style=flat" alt="taxi13245" /> </p>
 
 <p align="center"> <a href="https://twitter.com/karintou132" target="blank"><img src="https://img.shields.io/twitter/follow/karintou132?logo=twitter&style=for-the-badge" alt="karintou132" /></a> </p>
