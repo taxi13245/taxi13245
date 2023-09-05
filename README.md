@@ -1,4 +1,4 @@
-<h1 align="center">👋こんにちは！私は Karintou です！</h1>
+<h1 align="center">👋こんにちは！私は Karintou です！ (Hi, my name is Karintou!)</h1>
 <h3 align="center">よくやること (What I frequently do:.)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=taxi13245&label=Profile%20views&color=0e75b6&style=flat" alt="taxi13245" /> </p>
