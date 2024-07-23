@@ -3,7 +3,7 @@
 <p>
   ・📖アプリの英→日翻訳 (Translate the application from English to Japanese)<br><br>
   ・💻Unityでゲーム開発 (Developing Games with Unity)<br><br>
-  ・🤖大規模LLMによるチャットボット開発 (Chatbot Development with Large Scale LLM)
+  ・🤖大規模LLMによるチャットボット開発 (Chatbot Development with LLM)
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=taxi13245&label=Profile%20views&color=0e75b6&style=flat" alt="taxi13245" /> </p>
 
